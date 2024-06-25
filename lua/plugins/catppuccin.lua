@@ -4,13 +4,13 @@ return {
       lazy = false,
       name = "catppuccin",
       opts = {
-        transparent_background = true
+        transparent_background = false
       },
     },
     {
       "LazyVim/LazyVim",
       opts = {
-        colorscheme = "catppuccin",
+        colorscheme = "catppuccin-latte",
       },
     },
 }
